@@ -9,7 +9,6 @@
 /coverage
 
 # production
-/build
 
 # misc
 .DS_Store
@@ -22,5 +21,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
-docs.google.com/presentation/d/19EdiwzxdlzKgli8t1PPPvll5VEsQdPBoSdOldg3VkTs
